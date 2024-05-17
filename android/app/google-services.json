@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332992187825",
+    "project_id": "kampus-merdeka2024",
+    "storage_bucket": "kampus-merdeka2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332992187825:android:04a9edeff03a404cf7c190",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFew7-4Bbxti77_6cY93Tdd4uWklbLcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
